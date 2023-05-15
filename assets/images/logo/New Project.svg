@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 250px;fill: #000000;font-weight: 400;font-family: "FrancoisOne-Regular", "Francois One" } 
+	</style>
+	<text id="Sport X" style="transform: matrix(1,0,0,1,113,453)" >
+		<tspan x="0" y="189" class="t0">S</tspan><tspan  y="189" class="t0">p</tspan><tspan  y="189" class="t0">o</tspan><tspan  y="189" class="t0">r</tspan><tspan  y="189" class="t0">t</tspan><tspan  y="189" class="t0"> </tspan><tspan  y="189" class="t0">X
+</tspan>
+	</text>
+</svg>
